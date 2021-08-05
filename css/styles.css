@@ -1,0 +1,54 @@
+/**********************TAG SELECTORS*****************/
+
+
+body{
+    border-style: solid;
+    border-color: rgb(177, 138, 49);
+}
+
+h1{
+    text-align: center;
+    color: darkgoldenrod;
+}
+p{
+    text-align: center;
+    color: coral;
+}
+
+img {
+    background-color: dodgerblue;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 100px;
+    max-width: 100px;
+    height: 100px;
+
+}
+  
+
+/********************CLASS SELECTORS*****************/
+  
+.broccoli{
+    background-color: crimson;
+}
+
+.kebab{
+    background-color: darkolivegreen;
+}
+
+.circular{
+    border-radius: 25%;
+    background-color: black;
+}
+
+.center{
+    text-align: center;
+}
+
+
+
+/********************ID SELECTORS*****************/
+
+#heading{
+    color: darksalmon;
+}
